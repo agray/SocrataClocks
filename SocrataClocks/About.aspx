@@ -5,9 +5,14 @@
 </asp:Content>
 <asp:Content ID="BodyContent" runat="server" ContentPlaceHolderID="MainContent">
     <h2>About</h2>
-    <p>
+    <div align="center">
+        Solution developed by:<br/><br/>
         Andrew Gray.<br/>
         Phoenix Consulting. <br/> 
         Copyright 2013.
-    </p>
+    </div>
+    <br />
+    <div align="center">
+        <asp:Image ImageUrl="phoenix.gif" runat="server"/>
+    </div>
 </asp:Content>

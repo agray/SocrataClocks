@@ -46,6 +46,7 @@
     <Content Include="Controls\Clock.ascx" />
     <Content Include="Controls\MinuteSpinner.ascx" />
     <Content Include="Controls\HourSpinner.ascx" />
+    <Content Include="phoenix.gif" />
     <Content Include="Styles\Site.css" />
     <Content Include="Default.aspx" />
     <Content Include="Scripts\jquery-1.4.1-vsdoc.js" />

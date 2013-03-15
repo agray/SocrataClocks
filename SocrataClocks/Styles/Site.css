@@ -1,6 +1,5 @@
 ﻿/* DEFAULTS
 ----------------------------------------------------------*/
-
 body   
 {
     background: #b6b7bc;
@@ -99,7 +98,7 @@ first child of the left and right table columns */
     position: relative;
     margin: 0px;
     padding: 0px;
-    background: #4b6c9e;
+    background: #f48f0b;
     width: 100%;
 }
 
@@ -144,7 +143,7 @@ first child of the left and right table columns */
 
 div.hideSkiplink
 {
-    background-color:#3a4f63;
+    background-color:#785734;
     width:100%;
 }
 
@@ -163,8 +162,8 @@ div.menu ul
 
 div.menu ul li a, div.menu ul li a:visited
 {
-    background-color: #465c71;
-    border: 1px #4e667d solid;
+    background-color: #785734;
+    border: 1px #785734 solid;
     color: #dde4ec;
     display: block;
     line-height: 1.35em;
@@ -175,14 +174,14 @@ div.menu ul li a, div.menu ul li a:visited
 
 div.menu ul li a:hover
 {
-    background-color: #bfcbd6;
-    color: #465c71;
+    background-color: #f48f0b;
+    color: #dde4ec;
     text-decoration: none;
 }
 
 div.menu ul li a:active
 {
-    background-color: #465c71;
+    background-color: #785734;
     color: #cfdbe6;
     text-decoration: none;
 }

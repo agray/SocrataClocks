@@ -2,5 +2,5 @@
 
 <asp:TextBox ID="ValueHolder" runat="server"/>
 <ajaxToolkit:NumericUpDownExtender ID="AMPMNUD" runat="server"
-                                       TargetControlID="ValueHolder" 
-                                       Width="50" />
+                                   TargetControlID="ValueHolder" 
+                                   Width="50" />
