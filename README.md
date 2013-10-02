@@ -1,3 +1,3 @@
 SocrataClocks
 =============
-ASP.NET solution to [Socrata](socrata.com) SocrataClocks problem.
+ASP.NET solution to [Socrata](http://socrata.com) SocrataClocks problem.
